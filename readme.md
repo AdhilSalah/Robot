@@ -1,6 +1,6 @@
 How to run the file:
 - Clone this repo
-- Enusre that python is  installed
+- Ensure that python is  installed
 - Goto the robot.py directry
 - Open terminal from directry or you may use the VS code 
 - Type python/pytthon3 robot.py
